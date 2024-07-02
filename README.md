@@ -1,6 +1,6 @@
-# Southside Baseball League (Fictious) Database System
+# Southside Baseball League (Fictional) Database System
 
-## This project is a proof of concept in the design and execution of a Database Solution for a business purpose.  It keeps data for Southside Baseball, a fictious youth baseball league located in the state of Maryland.
+## This project is a proof of concept in the design and execution of a Database Solution for a business purpose.  It keeps data for Southside Baseball, a fictional youth baseball league located in the state of Maryland.
 
 This database solution aims to showcase how SQL can be used to improve the data collection and analysis processes at any business level.  It automates the process of entering information manually, and answers simulated real business questions a league manager of an actual youth baseball league would need to answer to help the league run efficiently.
 
