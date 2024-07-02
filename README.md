@@ -17,4 +17,4 @@ The SQL File Included within this repository:
 -Adds queries to answer business questions the administrators of the league would want to answer including: determining which players have no paid dues, confirming if all coaches have completed clearances, waivers, or required trainings, aggregating how much sponsorship money each team has received, creating a table to show what the current standings in the leagues are, tracking how often fields are used for maintenance reasons, and others.
 
 
-NOTE: PROJECT WAS PUBLISHED WITH PERMISSION OF THE PROFESSOR OF THE CLASS THIS PROJECT WAS INTENDED FOR AT THE UNIVERSITY OF MARYLAND'S ROBERT H. SCHOOL OF BUSINESS, THE DATA USED WITHIN IS FICTITIOUS AND ANY CONNECTION TO REAL PEOPLE IS COINCIDENCE. REAL PUBLICALLY ACCESSIBLE LOCAL BUSINESS INFORMATION IS USED.
+NOTE: PROJECT WAS PUBLISHED WITH PERMISSION OF THE PROFESSOR OF THE CLASS THIS PROJECT WAS INTENDED FOR AT THE UNIVERSITY OF MARYLAND'S ROBERT H. SMITH SCHOOL OF BUSINESS. THE DATA USED WITHIN IS FICTITIOUS AND ANY CONNECTION TO REAL PEOPLE IS COINCIDENCE. REAL PUBLICALLY ACCESSIBLE LOCAL BUSINESS INFORMATION IS USED.
