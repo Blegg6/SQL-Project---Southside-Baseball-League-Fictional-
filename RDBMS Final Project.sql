@@ -293,9 +293,9 @@ CREATE TABLE G7_Person (
 
 
 INSERT INTO G7_Person(Person_ID, Person_Fname, Person_Lname, Person_Type, Team_ID) VALUES
-(1, 'Sean', 'Crawford', 'Player', 1),
-(2, 'Casey', 'Crawford', 'Player', 1),
-(3, 'Tom', 'Crawford', 'Coach', 1),
+(1, 'Jake', 'Craw', 'Player', 1),
+(2, 'Adam', 'Craw', 'Player', 1),
+(3, 'Tom', 'Craw', 'Coach', 1),
 (4, 'Joseph', 'Wofford', 'Player', 1),
 (5, 'Steven', 'Wofford', 'Coach', 1),
 (6, 'Peter', 'Emery', 'Player', 1),
